@@ -1,2 +1,1 @@
-# BR-T3.2-07.2023
-Repository for the JU Admission  course
+Game feito pelo python(pygame) para iniciar abra o arquivo main.py e execute.
